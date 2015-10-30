@@ -12,5 +12,13 @@
     "vector"
   ],
   "author": "Matt Bell <greengiant83@hotmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greengiant83/gl-matrix-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/greengiant83/gl-matrix-core/issues"
+  },
+  "homepage": "https://github.com/greengiant83/gl-matrix-core"
 }
