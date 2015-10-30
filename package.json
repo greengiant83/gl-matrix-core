@@ -1,6 +1,6 @@
 {
   "name": "gl-matrix-core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "a npm wrapper for charlottegore's gl-matrix libraries",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/greengiant83/gl-matrix-core/issues"
   },
-  "homepage": "https://github.com/greengiant83/gl-matrix-core"
+  "homepage": "https://github.com/greengiant83/gl-matrix-core",
+  "readmeFilename": "README.md"
 }
